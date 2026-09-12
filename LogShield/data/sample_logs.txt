@@ -1,0 +1,8 @@
+2026-09-11 10:15:22 INFO Login successful from 192.168.1.10
+2026-09-11 10:16:03 ERROR Failed login from 10.0.0.5
+2026-09-11 10:16:05 ERROR Failed login from 10.0.0.5
+2026-09-11 10:16:08 ERROR Failed login from 10.0.0.5
+2026-09-11 10:17:12 INFO File accessed by 192.168.1.10
+2026-09-11 10:18:44 WARNING Login from unusual location from 172.16.0.20
+2026-09-11 10:20:01 INFO Login successful from 192.168.1.10
+2026-09-11 10:21:33 ERROR Failed login from 10.0.0.5
